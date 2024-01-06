@@ -1,6 +1,6 @@
 # Automatic-ISL-Translator
 Breaking Down Barriers with Automatic Indian Sign Language Translation
-Imagine a world where communication flows seamlessly between spoken language and Indian Sign Language (ISL). My project aims to build just that – an automatic translator bridging the gap between the hearing and deaf communities in India.
+Imagine a world where communication flows seamlessly between spoken language and Indian Sign Language (ISL). Our project aims to build just that – an automatic translator bridging the gap between the hearing and deaf communities in India.
 
 Here's how it works:
 
